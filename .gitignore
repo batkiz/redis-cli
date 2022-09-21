@@ -1,6 +1,8 @@
 redis-cli
 .vscode/*
+.idea
 bin/
+.gorediscli_history
 
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
